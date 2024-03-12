@@ -1,0 +1,4 @@
+POST http://localhost:5218/shorten?url=https://www.elkjop.com/p/2342342/iphone-12-64-gb-svart
+
+### GET Result
+GET http://localhost:5218/tTrYJk
